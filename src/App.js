@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          solid hackathon
+	<a href = "https://www.inrupt.com/event/solid-hackathon/home">ada_lovelace</a>
         </a>
       </header>
     </div>
